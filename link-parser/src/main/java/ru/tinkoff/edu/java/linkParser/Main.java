@@ -1,8 +1,5 @@
 package ru.tinkoff.edu.java.linkParser;
 
-import ru.tinkoff.edu.java.linkParser.GithubParser;
-import ru.tinkoff.edu.java.linkParser.LinkParser;
-
 import java.net.MalformedURLException;
 import java.util.Arrays;
 import java.util.Scanner;
